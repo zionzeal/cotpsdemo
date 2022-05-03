@@ -15,6 +15,12 @@
    "clientId": "Sam",
    "clientName": "Sam",
    "mobile": 6475554555,
+   "isActive": false
+ },
+  {
+   "clientId": "Fred",
+   "clientName": "Fred",
+   "mobile": 2534568595,
    "isActive": true
  }
 ]
